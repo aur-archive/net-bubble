@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Net-Bubble
+Comment=A Frozen Bubble clone with a lot of exciting features and nice graphics
+Exec=net-bubble
+Icon=net-bubble.png
+Terminal=false
+Categories=Game;ArcadeGame;
